@@ -1,0 +1,2 @@
+gs -q -sPAPERSIZE=a4 -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=KY1703_Permit_Application.pdf form.pdf map.pdf microtrench_traffic.pdf
+
